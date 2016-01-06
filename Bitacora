@@ -53,3 +53,17 @@ solo faltan algunas correcciones por parte del compañero Victor Linero Prieto.
 Ayer 17/12 se trabajo en los casos de uso Encriptación y Graficar. Conclusiones del día, el simulador de Android Studio es un tieso y lento
 Se dio una minuta a las 11:00 y termino a las 11:10. Durante este tiempo se le enceñó al cliente las funciones de grafica y encriptación
 desde un android.
+
+Actualización retrasada.
+Por motivos de olvido no se documento la labor de la primera iteración. Es por este motivo que se hará un breve recuento de lo que aconteció.
+Se realizó las interfaces de la aplicación, luego se generaron los casos de prueba graficar y encriptar. Posteriormente se desarrollo la conexión a la
+base de datos. Esto condujo a varios problemas con la comunicación entre aplicación y base de datos. La solución fue implementar diversos
+tipos de arrglos JSON para solventar las irregulariudades/diferencias entre la aplicación y la BD. Tras realizar la conexión y lograr acceder a la
+Base de datos el siguiente problema se precentaria en la forma de manejo de archivos. Esto debido a que por la falta de experiencia en este
+ambiente de desarrollo, el equipo desconocia de la forma en que el sistema de android administraba los archivos. La solución de este percance
+fue solicitar un permiso especia (de lectura a medios externos, aun cuando es memoria interna del teléfono). Finalmente se realizaron las
+funcionalidades del calendario y se cometio un error típico de novato (fue algo tonto >.<), el error era meter un listview dentro de un scroll
+lo cual llevo a un varios de minutos (casi un hora) en que la aplicación se caía "sin razón". Notas, el caso de prueba encriptación fue desarrollado mas no
+incorporado ya que esto implicaria problemas a la hora de hacer pruebas, por que los datos estarían inentendibles dificultando la prueba.
+Por este motivo la intergración del caso de uso se hará para la tercera iteración de la aplicación. (Para demostrar el caso de uso se creo
+una pequeña aplicación que muestra como es que funciona el caso). La encriptación ya fue aprobada en la tercera minuta con el cliente.
