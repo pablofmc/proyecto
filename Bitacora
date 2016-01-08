@@ -78,3 +78,6 @@ El dia de ayer jueves 7 de enero, se le presento al profeos runa parte de la apl
 la primera iteracación. Ayer estuve trabajando en la creación de pantallas para las tres diferentes estadísticas que corresponden a tres
 casos de uso distintos. El día de hoy he estado trabajando en el caso de uso de las practicas agricolas (la parte de android), donde 
 me ha dado problemas el manejo de la tabla, ya que es un poco dificil manejarlos eventos sobre ella.
+
+La mañana del 8/1/16 estuve trabajando en un procedimiento almacenado en mysql para obtener el promedio y la varianza de una muestra aleatoria de valores
+de una variable y una enfermedad en específica. También se trabajó en el php para obtener los datos generados por este procedimiento lamacenado. Se logró y a almorzar!
