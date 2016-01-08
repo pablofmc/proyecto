@@ -73,3 +73,8 @@ estocasticas del sistema. Además de expesar el hecho de que no se como realizar
 buscando información en internet de cómo se investiga, pero para ser franco nunca he hecho una investigación "real". Osea un investigación
 con posibilidad de publicación... No sé si el trabajo que he desarrollado esta bien, es algo preocupante. Peor el hecho de que olviamos
 que el martes teniamos una cita de revición de la primera iteración... Esta ahora para mañana jueves. Que falla...
+
+El dia de ayer jueves 7 de enero, se le presento al profeos runa parte de la aplicación para tener su aprobación d eloa casos de uso de 
+la primera iteracación. Ayer estuve trabajando en la creación de pantallas para las tres diferentes estadísticas que corresponden a tres
+casos de uso distintos. El día de hoy he estado trabajando en el caso de uso de las practicas agricolas (la parte de android), donde 
+me ha dado problemas el manejo de la tabla, ya que es un poco dificil manejarlos eventos sobre ella.
