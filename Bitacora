@@ -89,3 +89,7 @@ será incriptar los datos de la base de datos de modo dirrecto. Que problema...
 
 13/01/2016: He estado todo el día trabajando en el algoritmo de encriptación, pero hasta hace hace aproximadamente una hora (3:00 pmp) se logró
 realizar una encriptación entre la app y php. Esta es una encriptación basa en AES.
+
+13/01/2016: He estrado trabajando durante el día en reparaciones de la apliacacion las cuales corresponden a la tercera iteracion
+donde se han cambiado colores de nobres de comboboxes, se ha intentado arreglar el calendario lo q ha provocado algunos problemas,
+en este momento voy a proceder a terminar el proceso de login.
