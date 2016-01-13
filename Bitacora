@@ -82,7 +82,10 @@ me ha dado problemas el manejo de la tabla, ya que es un poco dificil manejarlos
 La mañana del 8/1/16 estuve trabajando en un procedimiento almacenado en mysql para obtener el promedio y la varianza de una muestra aleatoria de valores
 de una variable y una enfermedad en específica. También se trabajó en el php para obtener los datos generados por este procedimiento lamacenado. Se logró y a almorzar!
 
-}13 de enero del 2016, En el proceso de encripción hay una problema entra la comununicación de java con php. Aparentemente segun lo que se ha investigado
+13 de enero del 2016, En el proceso de encripción hay una problema entra la comununicación de java con php. Aparentemente segun lo que se ha investigado
 exite un BASE64.enconde que podria hacer la transformación pero aun que tiene la misma cadena inicial dan diferentes resultado. A este ritmo
 la encriptación estará imposible de integrar de la manera deseada a la aplicación. Opciones para solucionar este problema, para que existe el caso de uso
 será incriptar los datos de la base de datos de modo dirrecto. Que problema...
+
+13/01/2016: He estado todo el día trabajando en el algoritmo de encriptación, pero hasta hace hace aproximadamente una hora (3:00 pmp) se logró
+realizar una encriptación entre la app y php. Esta es una encriptación basa en AES.
