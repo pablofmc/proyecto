@@ -93,3 +93,7 @@ realizar una encriptación entre la app y php. Esta es una encriptación basa en
 13/01/2016: He estrado trabajando durante el día en reparaciones de la apliacacion las cuales corresponden a la tercera iteracion
 donde se han cambiado colores de nobres de comboboxes, se ha intentado arreglar el calendario lo q ha provocado algunos problemas,
 en este momento voy a proceder a terminar el proceso de login.
+
+13/01/2016: He actualizado los documentos por entregar para el viernes 15. Diego notó que aun que las enciptaciones parecian dar resultos diferentes
+por debajo los módulos se entendian (Misterios...). Ahorra a buscar cómo hacer un manual técnico y ayudar a pablo con los detalles de la
+aplicación (los arreglos pequeños).
